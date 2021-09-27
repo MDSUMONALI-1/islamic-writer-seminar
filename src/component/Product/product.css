@@ -1,0 +1,15 @@
+.product{
+    display: flex;
+ 
+    margin-right: 5px;
+}
+.product-name{
+    color: gray;
+}
+.button-regular{
+    background-color: orange;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
